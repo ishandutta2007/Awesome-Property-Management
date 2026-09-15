@@ -65,7 +65,7 @@ The market is **moderately to highly fragmented**:
 
 > Community-built, self-hosted, and customizable property management tools, sorted descending by **GitHub Star Count**.
 
-| Project & Repo Link | Star Count ⭐️ | Description 📝 | Primary Stack 🛠️ |
+| Project & Repo Link | Star_Count ⭐️ | Description 📝 | Primary Stack 🛠️ |
 | :--- | :--- | :--- | :--- |
 | **[Odoo Real Estate / Property](https://github.com/odoo/odoo)** 🏢 | <a href="https://github.com/odoo/odoo/stargazers"><img src="https://img.shields.io/github/stars/odoo/odoo?style=social&color=white" alt="Odoo Stars"/></a> | Modular ERP platform with rich community modules for real estate leasing, property tracking, and multi-entity accounting. | Python / JS |
 | **[ERPNext Property Management](https://github.com/frappe/erpnext)** 💼 | <a href="https://github.com/frappe/erpnext/stargazers"><img src="https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white" alt="ERPNext Stars"/></a> | Open-source enterprise resource planner featuring tenant tracking, lease billing, and maintenance ticketing extensions. | Python / Frappe |
